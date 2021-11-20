@@ -1,0 +1,11 @@
+name: Hypixel BlackSmith
+main: JkGamer12\BlackSmith\Main
+version: 1.0
+api: [3.0.0, 4.0.0]
+author: JkGamer12
+depend:
+ - EconomyAPI
+
+commands:
+ blacksmith:
+  description: "Opens BlackSmith Menu"
