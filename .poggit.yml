@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/JkGamer12/BlackSmithUI
+build-by-default: true
+branches:
+- main
+projects:
+  BlackSmithUI:
+    path: ""
+...
